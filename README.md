@@ -13,32 +13,32 @@ Collection of PHP code required for generating ACF fields.
 * [Password](field_types/password.php)
 
 ### Content
-* Wysiwyg Editor
-* oEmbed
-* Image
-* File
-* Gallery
+* [Wysiwyg Editor](field_types/wysiwyg.php)
+* [oEmbed](field_types/oembed.php)
+* [Image](field_types/image.php)
+* [File](field_types/field.php)
+* [Gallery](field_types/gallery.php)
 
 ### Choice
-* Select
-* Checkbox
-* Radio Button
-* True / False
+* [Select](field_types/select.php)
+* [Checkbox](field_types/checkbox.php)
+* [Radio Button](field_types/radio.php)
+* [True / False](field_types/boolean.php)
 
 ### Relational
-* Post Object
-* Page Link
-* Relationship
-* Taxonomy
-* User
+* [Post Object](field_types/post_object.php)
+* [Page Link](field_types/page_link.php)
+* [Relationship](field_types/relationship.php)
+* [Taxonomy](field_types/taxonomy.php)
+* [User](field_types/user.php)
 
 ### jQuery
-* Google Map
-* Date Picker
-* Color Picker
+* [Google Map](field_types/google_map.php)
+* [Date Picker](field_types/date_picker.php)
+* [Color Picker](field_types/color_picker.php)
 
 ### Layout
-* Message
-* Tab
-* Repeater
-* Flexible Content
+* [Message](field_types/message.php)
+* [Tab](field_types/tab.php)
+* [Repeater](field_types/repeater.php)
+* [Flexible Content](field_types/flexible_content.php)
