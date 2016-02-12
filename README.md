@@ -17,21 +17,25 @@ Collection of PHP code required for generating ACF fields.
 * Image
 * File
 * Gallery
+
 ### Choice
 * Select
 * Checkbox
 * Radio Button
 * True / False
+
 ### Relational
 * Post Object
 * Page Link
 * Relationship
 * Taxonomy
 * User
+
 ### jQuery
 * Google Map
 * Date Picker
 * Color Picker
+
 ### Layout
 * Message
 * Tab
