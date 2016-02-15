@@ -12,6 +12,6 @@ array (
 		'class' => '',
 		'id' => '',
 	),
-	'placement' => 'top',
-	'endpoint' => 0,
+	'placement' => 'top', // 'top' or 'left'
+	'endpoint' => 0, // Field
 )
