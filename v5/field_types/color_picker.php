@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdf1ceb8639',
-	'label' => 'Color Picker',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Color Picker', 'textdomain' ),
 	'name' => 'color_picker',
 	'type' => 'color_picker',
 	'instructions' => '',

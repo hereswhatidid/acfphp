@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdf1bdb8638',
-	'label' => 'Date Picker',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Date Picker', 'textdomain' ),
 	'name' => 'date_picker',
 	'type' => 'date_picker',
 	'instructions' => '',

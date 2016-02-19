@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde9adea677',
-	'label' => 'URL',
+	'key' => 'FIELDKEY',
+	'label' => __( 'URL', 'textdomain' ),
 	'name' => 'url',
 	'type' => 'url',
 	'instructions' => '',

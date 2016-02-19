@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdef12df183',
-	'label' => 'Boolean',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Boolean', 'textdomain' ),
 	'name' => 'boolean',
 	'type' => 'true_false',
 	'instructions' => '',

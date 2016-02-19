@@ -1,6 +1,6 @@
 <?php
 array (
-	'key' => 'field_56bdf210b863e',
+	'key' => 'FIELDKEY',
 	'label' => 'Flexible Content',
 	'name' => 'flexible_content',
 	'type' => 'flexible_content',
@@ -17,13 +17,13 @@ array (
 	'max' => '',
 	'layouts' => array (
 		array (
-			'key' => '56bdf2154dbaf',
+			'key' => 'GROUPKEYA',
 			'name' => 'content_group',
 			'label' => 'Content Group',
 			'display' => 'block',
 			'sub_fields' => array (
 				array (
-					'key' => 'field_56bdf22ab863f',
+					'key' => 'GROUPFIELDKEYA',
 					'label' => 'Sample Text Field',
 					'name' => 'sample_text_field',
 					'type' => 'text',
@@ -48,13 +48,13 @@ array (
 			'max' => '',
 		),
 		array (
-			'key' => '56bdf242b8640',
+			'key' => 'GROUPKEYB',
 			'name' => 'another_content_group',
 			'label' => 'Another Content Group',
 			'display' => 'block',
 			'sub_fields' => array (
 				array (
-					'key' => 'field_56bdf24ab8641',
+					'key' => 'GROUPFIELDKEYB',
 					'label' => 'Another Sample Text Field',
 					'name' => 'another_sample_text_field',
 					'type' => 'text',

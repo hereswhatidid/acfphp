@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde9d0ea67a',
-	'label' => 'oEmbed',
+	'key' => 'FIELDKEY',
+	'label' => __( 'oEmbed', 'textdomain' ),
 	'name' => 'oembed',
 	'type' => 'oembed',
 	'instructions' => '',

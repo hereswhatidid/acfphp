@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdeeaddf17e',
-	'label' => 'File',
+	'key' => 'FIELDKEY',
+	'label' => __( 'File', 'textdomain' ),
 	'name' => 'file',
 	'type' => 'file',
 	'instructions' => '',

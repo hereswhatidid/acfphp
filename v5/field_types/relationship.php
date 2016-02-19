@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdefb9df186',
-	'label' => 'Relationship',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Relationship', 'textdomain' ),
 	'name' => 'relationship',
 	'type' => 'relationship',
 	'instructions' => '',

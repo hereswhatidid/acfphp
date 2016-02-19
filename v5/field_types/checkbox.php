@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdeed4df181',
-	'label' => 'Checkbox',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Checkbox', 'textdomain' ),
 	'name' => 'checkbox',
 	'type' => 'checkbox',
 	'instructions' => '',
@@ -13,9 +13,9 @@ array (
 		'id' => '',
 	),
 	'choices' => array (
-		'red' => 'Red',
-		'green' => 'Green',
-		'blue' => 'Blue',
+		'red' => __( 'Red', 'textdomain' ),
+		'green' => __( 'Green', 'textdomain' ),
+		'blue' => __( 'Blue', 'textdomain' ),
 	),
 	'default_value' => array (
 	),

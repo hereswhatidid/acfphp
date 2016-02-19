@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdef6cdf184',
-	'label' => 'Post Object',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Post Object', 'textdomain' ),
 	'name' => 'post_object',
 	'type' => 'post_object',
 	'instructions' => '',

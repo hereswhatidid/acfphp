@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde973ea673',
-	'label' => 'Basic Text Field',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Basic Text Field', 'textdomain' ),
 	'name' => 'basic_text_field',
 	'type' => 'text',
 	'instructions' => '',

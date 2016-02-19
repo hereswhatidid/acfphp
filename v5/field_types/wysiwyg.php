@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde9c1ea679',
-	'label' => 'WYSIWYG',
+	'key' => 'FIELDKEY',
+	'label' => __( 'WYSIWYG', 'textdomain' ),
 	'name' => 'wysiwyg',
 	'type' => 'wysiwyg',
 	'instructions' => '',

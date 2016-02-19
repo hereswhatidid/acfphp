@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdeebcdf17f',
-	'label' => 'Gallery',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Gallery', 'textdomain' ),
 	'name' => 'gallery',
 	'type' => 'gallery',
 	'instructions' => '',

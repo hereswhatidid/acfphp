@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde9b7ea678',
-	'label' => 'Password',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Password', 'textdomain' ),
 	'name' => 'password',
 	'type' => 'password',
 	'instructions' => '',

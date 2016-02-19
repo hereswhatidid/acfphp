@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdf1e8b863b',
-	'label' => 'Tab',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Tab', 'textdomain' ),
 	'name' => 'tab',
 	'type' => 'tab',
 	'instructions' => '',
@@ -13,5 +13,5 @@ array (
 		'id' => '',
 	),
 	'placement' => 'top', // 'top' or 'left'
-	'endpoint' => 0, // Field
+	'endpoint' => 0,
 )

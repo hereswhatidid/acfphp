@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdeec8df180',
-	'label' => 'Select',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Select', 'textdomain' ),
 	'name' => 'select',
 	'type' => 'select',
 	'instructions' => '',
@@ -13,9 +13,9 @@ array (
 		'id' => '',
 	),
 	'choices' => array (
-		'red' => 'Red',
-		'green' => 'Green',
-		'blue' => 'Blue',
+		'red' => __( 'Red', 'textdomain' ),
+		'green' => __( 'Green', 'textdomain' ),
+		'blue' => __( 'Blue', 'textdomain' ),
 	),
 	'default_value' => array (
 	),

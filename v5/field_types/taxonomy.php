@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdefd7df187',
-	'label' => 'Taxonomy',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Taxonomy', 'textdomain' ),
 	'name' => 'taxonomy',
 	'type' => 'taxonomy',
 	'instructions' => '',

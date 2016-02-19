@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde993ea675',
-	'label' => 'Numeric',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Numeric', 'textdomain' ),
 	'name' => 'numeric',
 	'type' => 'number',
 	'instructions' => '',

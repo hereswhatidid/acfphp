@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdef01df182',
-	'label' => 'Radio Button',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Radio Button', 'textdomain' ),
 	'name' => 'radio_button',
 	'type' => 'radio',
 	'instructions' => '',
@@ -13,9 +13,9 @@ array (
 		'id' => '',
 	),
 	'choices' => array (
-		'red' => 'Red',
-		'green' => 'Green',
-		'blue' => 'Blue',
+		'red' => __( 'Red', 'textdomain' ),
+		'green' => __( 'Green', 'textdomain' ),
+		'blue' => __( 'Blue', 'textdomain' ),
 	),
 	'other_choice' => 0,
 	'save_other_choice' => 0,

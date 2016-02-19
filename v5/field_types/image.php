@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bde9dcea67b',
-	'label' => 'Image',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Image', 'textdomain' ),
 	'name' => 'image',
 	'type' => 'image',
 	'instructions' => '',

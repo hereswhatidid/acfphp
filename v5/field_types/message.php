@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdf1d8b863a',
-	'label' => 'Message',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Message', 'textdomain' ),
 	'name' => 'message',
 	'type' => 'message',
 	'instructions' => '',

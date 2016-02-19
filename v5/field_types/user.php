@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdefeedf188',
-	'label' => 'User',
+	'key' => 'FIELDKEY',
+	'label' => __( 'User', 'textdomain' ),
 	'name' => 'user',
 	'type' => 'user',
 	'instructions' => '',

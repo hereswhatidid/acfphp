@@ -1,7 +1,7 @@
 <?php
 array (
-	'key' => 'field_56bdf1aab8637',
-	'label' => 'Google Map',
+	'key' => 'FIELDKEY',
+	'label' => __( 'Google Map', 'textdomain' ),
 	'name' => 'google_map',
 	'type' => 'google_map',
 	'instructions' => '',

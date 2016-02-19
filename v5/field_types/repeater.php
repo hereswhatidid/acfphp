@@ -1,6 +1,6 @@
 <?php
 array (
-	'key' => 'field_56bdf1f5b863c',
+	'key' => 'FIELDKEY',
 	'label' => 'Repeater',
 	'name' => 'repeater',
 	'type' => 'repeater',
