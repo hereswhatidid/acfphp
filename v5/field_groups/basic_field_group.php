@@ -14,6 +14,42 @@ if( function_exists('acf_add_local_field_group') ):
 					'operator' => '==',
 					'value' => 'post',
 				),
+
+			),
+			array(
+				array (
+					'param' => 'page',
+					'operator' => '==',
+					'value' => '140', // post ID of the page
+				),
+			),
+			array(
+				array (
+					'param' => 'page_parent',
+					'operator' => '==',
+					'value' => '140', // post ID of the page
+				),
+			),
+			array(
+				array (
+					'param' => 'page_template',
+					'operator' => '==',
+					'value' => 'templates/landing-page.php', // location of the template file relative to the theme
+				),
+			),
+			array(
+				array (
+					'param' => 'page_type',
+					'operator' => '==',
+					'value' => 'front_page', // 'front_page', 'posts_page', 'top_level' - (no parent), 'parent' - (has children), 'child' - (has parent)
+				),
+			),
+			array(
+				array (
+					'param' => 'options_page',
+					'operator' => '==',
+					'value' => 'acf-options', // options page slug with 'acf-' prepended to it
+				),
 			),
 		),
 		'menu_order' => 0,
