@@ -3,7 +3,7 @@ if( function_exists('acf_add_local_field_group') ):
 
 	acf_add_local_field_group(array (
 		'key' => 'group_56bce76a56f87',
-		'title' => 'Sample Field Group',
+		'title' => __( 'Sample Field Group', 'textdomain' ),
 		'fields' => array (
 //			Field declarations go here
 		),

@@ -1,7 +1,7 @@
 <?php
 array (
 	'key' => 'FIELDKEY',
-	'label' => 'Page Link',
+	'label' => __( 'Page Link', 'textdomain' ),
 	'name' => 'page_link',
 	'type' => 'page_link',
 	'instructions' => '',

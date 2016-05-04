@@ -1,7 +1,7 @@
 <?php
 array (
 	'key' => 'FIELDKEY',
-	'label' => 'Repeater',
+	'label' => __( 'Repeater', 'textdomain' ),
 	'name' => 'repeater',
 	'type' => 'repeater',
 	'instructions' => '',
@@ -20,7 +20,7 @@ array (
 	'sub_fields' => array (
 		array (
 			'key' => 'field_56bdf1feb863d',
-			'label' => 'Basic Text Box',
+			'label' => __( 'Basic Text Box', 'textdomain' ),
 			'name' => 'basic_text_box',
 			'type' => 'text',
 			'instructions' => '',
