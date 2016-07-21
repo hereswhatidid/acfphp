@@ -27,5 +27,5 @@ array (
 	'elements' => '',
 	'min' => '',
 	'max' => '',
-	'return_format' => 'object',
+	'return_format' => 'object', // 'object', 'id'
 )

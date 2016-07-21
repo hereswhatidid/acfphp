@@ -12,7 +12,7 @@ array (
 		'class' => '',
 		'id' => '',
 	),
-	'return_format' => 'array',
+	'return_format' => 'array', // 'array', 'id', 'url'
 	'library' => 'all',
 	'min_size' => '',
 	'max_size' => '',

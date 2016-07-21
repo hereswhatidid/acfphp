@@ -21,6 +21,6 @@ array (
 	),
 	'allow_null' => 0,
 	'multiple' => 0,
-	'return_format' => 'object',
+	'return_format' => 'object', // 'object', 'id'
 	'ui' => 1,
 )

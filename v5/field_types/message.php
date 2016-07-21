@@ -13,6 +13,6 @@ array (
 		'id' => '',
 	),
 	'message' => '',
-	'new_lines' => 'wpautop',
+	'new_lines' => 'wpautop', // 'wpautop', 'br', ''
 	'esc_html' => 0,
 )

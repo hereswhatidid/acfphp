@@ -13,11 +13,11 @@ array (
 		'id' => '',
 	),
 	'taxonomy' => 'category',
-	'field_type' => 'checkbox',
+	'field_type' => 'checkbox', // 'checkbox', 'multi_select', 'radio', 'select'
 	'allow_null' => 0,
 	'add_term' => 1,
 	'save_terms' => 0,
 	'load_terms' => 0,
-	'return_format' => 'id',
+	'return_format' => 'id', // 'object', 'id'
 	'multiple' => 0,
 )
