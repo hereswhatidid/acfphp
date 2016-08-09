@@ -23,6 +23,7 @@ array (
 	'multiple' => 0,
 	'ui' => 0,
 	'ajax' => 0,
+	'return_format' => 'value', // 'value', 'label', 'array' (both)
 	'placeholder' => '',
 	'disabled' => 0,
 	'readonly' => 0,
