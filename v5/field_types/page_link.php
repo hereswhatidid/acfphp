@@ -17,5 +17,6 @@ array (
 	'taxonomy' => array (
 	),
 	'allow_null' => 0,
+	'allow_archives' => 1,
 	'multiple' => 0,
 )
