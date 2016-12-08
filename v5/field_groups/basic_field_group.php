@@ -51,6 +51,13 @@ if( function_exists('acf_add_local_field_group') ):
 					'value' => 'acf-options', // options page slug with 'acf-' prepended to it
 				),
 			),
+			array(
+				array (
+					'param' => 'taxonomy',
+					'operator' => '==',
+					'value' => 'taxonomy_slug', // term edit page for the custom taxonomy 'taxonomy_slug'
+				),
+			),
 		),
 		'menu_order' => 0,
 		'position' => 'normal', // 'acf_after_title', 'normal' or 'side'

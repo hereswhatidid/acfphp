@@ -12,6 +12,9 @@ array (
 		'class' => '',
 		'id' => '',
 	),
-	'message' => '',
 	'default_value' => 0,
+	'message' => '',
+	'ui' => 1,
+	'ui_on_text' => '',
+	'ui_off_text' => '',
 )

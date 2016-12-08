@@ -14,7 +14,7 @@ array (
 	),
 	'min' => '',
 	'max' => '',
-	'preview_size' => 'thumbnail',
+	'insert' => 'append',
 	'library' => 'all',
 	'min_width' => '',
 	'min_height' => '',
