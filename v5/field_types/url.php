@@ -14,4 +14,6 @@ array (
 	),
 	'default_value' => '',
 	'placeholder' => '',
+	'readonly' => 0,
+	'disabled' => 0,
 )

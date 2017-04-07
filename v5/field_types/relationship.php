@@ -1,31 +1,26 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Relationship', 'textdomain' ),
-	'name' => 'relationship',
-	'type' => 'relationship',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Relationship', 'textdomain' ),
+	'name'              => 'relationship',
+	'type'              => 'relationship',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'post_type' => array (
-		0 => 'post',
-		1 => 'page',
-	),
-	'taxonomy' => array (
-		0 => 'category:uncategorized',
-	),
-	'filters' => array (
+	'post_type'         => array(),
+	'taxonomy'          => array(),
+	'filters'           => array(
 		0 => 'search',
 		1 => 'post_type',
 		2 => 'taxonomy',
 	),
-	'elements' => '',
-	'min' => '',
-	'max' => '',
-	'return_format' => 'object', // 'object', 'id'
+	'elements'          => '',
+	'min'               => '',
+	'max'               => '',
+	'return_format'     => 'object', // 'object', 'id'
 )

@@ -1,19 +1,19 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Google Map', 'textdomain' ),
-	'name' => 'google_map',
-	'type' => 'google_map',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Google Map', 'textdomain' ),
+	'name'              => 'google_map',
+	'type'              => 'google_map',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'center_lat' => '',
-	'center_lng' => '',
-	'zoom' => '',
-	'height' => '',
+	'center_lat'        => '',
+	'center_lng'        => '',
+	'zoom'              => '',
+	'height'            => '',
 )

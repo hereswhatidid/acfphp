@@ -1,18 +1,18 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Message', 'textdomain' ),
-	'name' => 'message',
-	'type' => 'message',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Message', 'textdomain' ),
+	'name'              => 'message',
+	'type'              => 'message',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'message' => '',
-	'new_lines' => 'wpautop', // 'wpautop', 'br', ''
-	'esc_html' => 0,
+	'message'           => '',
+	'new_lines'         => 'wpautop', // 'wpautop', 'br', ''
+	'esc_html'          => 0,
 )

@@ -16,7 +16,7 @@ array (
 	'placeholder' => '',
 	'maxlength' => '',
 	'rows' => '',
-	'new_lines' => 'wpautop',
+	'new_lines' => 'wpautop', // 'wpautop', 'br', 0
 	'readonly' => 0,
 	'disabled' => 0,
 )

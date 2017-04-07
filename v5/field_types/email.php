@@ -16,4 +16,6 @@ array (
 	'placeholder' => '',
 	'prepend' => '',
 	'append' => '',
+	'readonly' => 0,
+	'disabled' => 0,
 )

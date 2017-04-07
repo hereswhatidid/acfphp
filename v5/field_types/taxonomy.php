@@ -1,23 +1,23 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Taxonomy', 'textdomain' ),
-	'name' => 'taxonomy',
-	'type' => 'taxonomy',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Taxonomy', 'textdomain' ),
+	'name'              => 'taxonomy',
+	'type'              => 'taxonomy',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'taxonomy' => 'category',
-	'field_type' => 'checkbox', // 'checkbox', 'multi_select', 'radio', 'select'
-	'allow_null' => 0,
-	'add_term' => 1,
-	'save_terms' => 0,
-	'load_terms' => 0,
-	'return_format' => 'id', // 'object', 'id'
-	'multiple' => 0,
+	'taxonomy'          => 'category',
+	'field_type'        => 'checkbox', // 'checkbox', 'multi_select', 'radio', 'select'
+	'allow_null'        => 0,
+	'add_term'          => 1,
+	'save_terms'        => 0,
+	'load_terms'        => 0,
+	'return_format'     => 'id', // 'object', 'id'
+	'multiple'          => 0,
 )

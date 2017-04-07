@@ -1,20 +1,20 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'User', 'textdomain' ),
-	'name' => 'user',
-	'type' => 'user',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'User', 'textdomain' ),
+	'name'              => 'user',
+	'type'              => 'user',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'role' => array (
+	'role'              => array(
 		0 => 'administrator',
 	),
-	'allow_null' => 0,
-	'multiple' => 0,
+	'allow_null'        => 0,
+	'multiple'          => 0,
 )

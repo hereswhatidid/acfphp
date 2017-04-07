@@ -1,17 +1,17 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Tab', 'textdomain' ),
-	'name' => 'tab',
-	'type' => 'tab',
-	'instructions' => '',
-	'required' => 0,
+array(
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Tab', 'textdomain' ),
+	'name'              => 'tab',
+	'type'              => 'tab',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => array(
 		'width' => '',
 		'class' => '',
-		'id' => '',
+		'id'    => '',
 	),
-	'placement' => 'top', // 'top' or 'left'
-	'endpoint' => 0,
+	'placement'         => 'top', // 'top' or 'left'
+	'endpoint'          => 0,
 )

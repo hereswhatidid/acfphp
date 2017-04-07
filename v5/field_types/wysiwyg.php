@@ -13,7 +13,9 @@ array (
 		'id' => '',
 	),
 	'default_value' => '',
-	'tabs' => 'all',
-	'toolbar' => 'full',
+	'tabs' => 'all', // 'all', 'visual', 'text'
+	'toolbar' => 'full', // 'full', 'basic'
 	'media_upload' => 1,
+	'delay' => 0,
 )
+

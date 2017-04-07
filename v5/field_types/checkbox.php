@@ -13,12 +13,12 @@ array (
 		'id' => '',
 	),
 	'choices' => array (
-		'red' => __( 'Red', 'textdomain' ),
-		'green' => __( 'Green', 'textdomain' ),
-		'blue' => __( 'Blue', 'textdomain' ),
 	),
+	'allow_custom' => 0,
+	'save_custom' => 0,
 	'default_value' => array (
 	),
-	'layout' => 'vertical',
+	'layout' => 'vertical', // 'vertical', 'horizontal'
 	'toggle' => 0,
+	'return_format' => 'value', // 'value', 'label', 'array'
 )

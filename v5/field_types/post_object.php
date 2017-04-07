@@ -13,11 +13,8 @@ array (
 		'id' => '',
 	),
 	'post_type' => array (
-		0 => 'post',
-		1 => 'page',
 	),
 	'taxonomy' => array (
-		0 => 'category:uncategorized',
 	),
 	'allow_null' => 0,
 	'multiple' => 0,

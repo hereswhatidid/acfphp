@@ -14,8 +14,8 @@ array (
 	),
 	'min' => '',
 	'max' => '',
-	'insert' => 'append',
-	'library' => 'all',
+	'insert' => 'append', // 'append', 'prepend'
+	'library' => 'all', // 'all', 'uploadedTo'
 	'min_width' => '',
 	'min_height' => '',
 	'min_size' => '',

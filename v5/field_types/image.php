@@ -14,7 +14,7 @@ array (
 	),
 	'return_format' => 'array', // 'array', 'id', 'url'
 	'preview_size' => 'thumbnail',
-	'library' => 'all',
+	'library' => 'all', // 'all', 'uploadedTo'
 	'min_width' => '',
 	'min_height' => '',
 	'min_size' => '',

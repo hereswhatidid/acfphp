@@ -13,17 +13,17 @@ array (
 		'id' => '',
 	),
 	'choices' => array (
-		'red' => __( 'Red', 'textdomain' ),
-		'green' => __( 'Green', 'textdomain' ),
-		'blue' => __( 'Blue', 'textdomain' ),
+		'page' => 'Page',
+		'file' => 'File Link',
 	),
 	'default_value' => array (
+		0 => 'file',
 	),
 	'allow_null' => 0,
 	'multiple' => 0,
 	'ui' => 0,
 	'ajax' => 0,
-	'return_format' => 'value', // 'value', 'label', 'array' (both)
+	'return_format' => 'value', // 'value', 'label', 'array'
 	'placeholder' => '',
 	'disabled' => 0,
 	'readonly' => 0,
