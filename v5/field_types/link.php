@@ -12,5 +12,5 @@ array (
 		'class' => '',
 		'id' => '',
 	),
-	'return_format' => 'array',
+	'return_format' => 'array', // 'array' or 'url'
 ),
