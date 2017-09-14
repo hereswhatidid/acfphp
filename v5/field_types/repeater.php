@@ -12,10 +12,10 @@ array(
 		'class' => '',
 		'id'    => '',
 	),
-	'collapsed'         => 'field_56bdf1feb863d',
+	'collapsed'         => 'field_56bdf1feb863d', // key of field to show when row is minimized
 	'min'               => '',
 	'max'               => '',
-	'layout'            => 'table',
+	'layout'            => 'table', // 'table', 'block', 'row'
 	'button_label'      => 'Add Row',
 	'sub_fields'        => array(
 		array(
