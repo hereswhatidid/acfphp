@@ -1,7 +1,7 @@
 <?php
 [
 	'key'   => self::$slug . 'FIELDKEY',
-	'label' => __( 'Numeric', 'textdomain' ),
-	'name'  => 'numeric',
+	'label' => __( 'Number', 'textdomain' ),
+	'name'  => 'number',
 	'type'  => 'number',
-]
+],

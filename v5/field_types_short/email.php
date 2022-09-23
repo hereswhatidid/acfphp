@@ -4,4 +4,4 @@
 	'label' => __( 'Email', 'textdomain' ),
 	'name'  => 'email',
 	'type'  => 'email',
-]
+],

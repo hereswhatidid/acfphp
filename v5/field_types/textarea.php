@@ -1,22 +1,20 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Basic Text Area', 'textdomain' ),
-	'name' => 'basic_text_area',
-	'type' => 'textarea',
-	'instructions' => '',
-	'required' => 0,
+[
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Text Area', 'textdomain' ),
+	'name'              => 'text_area',
+	'type'              => 'textarea',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
-		'id' => '',
-	),
-	'default_value' => '',
-	'placeholder' => '',
-	'maxlength' => '',
-	'rows' => '',
-	'new_lines' => 'wpautop', // 'wpautop', 'br', '0'
-	'readonly' => 0,
-	'disabled' => 0,
-)
+		'id'    => '',
+	],
+	'default_value'     => '',
+	'placeholder'       => '',
+	'maxlength'         => '',
+	'rows'              => '',
+	'new_lines'         => '', // 'wpautop', 'br', '0'
+],

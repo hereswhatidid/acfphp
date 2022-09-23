@@ -4,4 +4,5 @@
 	'label' => __( 'Message', 'textdomain' ),
 	'name'  => 'message',
 	'type'  => 'message',
-]
+	'message' => '',
+],

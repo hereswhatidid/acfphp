@@ -1,0 +1,20 @@
+<?php
+[
+	'key'               => self::$slug . 'text',
+	'label'             => __( 'Text Field', 'textdomain' ),
+	'name'              => 'text_field',
+	'type'              => 'text',
+	'instructions'      => '',
+	'required'          => 0,
+	'conditional_logic' => 0,
+	'wrapper'           => [
+		'width' => '',
+		'class' => '',
+		'id'    => '',
+	],
+	'default_value'     => '',
+	'placeholder'       => '',
+	'prepend'           => '',
+	'append'            => '',
+	'maxlength'         => '',
+],

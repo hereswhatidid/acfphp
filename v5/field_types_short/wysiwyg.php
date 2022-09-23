@@ -4,4 +4,4 @@
 	'label' => __( 'WYSIWYG', 'textdomain' ),
 	'name'  => 'wysiwyg',
 	'type'  => 'wysiwyg',
-]
+],

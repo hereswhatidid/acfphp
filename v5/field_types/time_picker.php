@@ -1,5 +1,5 @@
 <?php
-array(
+[
 	'key'               => 'FIELDKEY',
 	'label'             => __( 'Time Picker', 'textdomain' ),
 	'name'              => 'time_picker',
@@ -7,11 +7,11 @@ array(
 	'instructions'      => '',
 	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper'           => array(
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
 		'id'    => '',
-	),
+	],
 	'display_format'    => 'g:i a',
 	'return_format'     => 'g:i a',
-),
+],

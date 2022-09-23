@@ -7,4 +7,5 @@
 	'role'  => [
 		0 => 'administrator',
 	],
-]
+	'return_format' => 'id',
+],

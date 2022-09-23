@@ -6,4 +6,5 @@
 	'type'  => 'gallery',
 	'min'   => '',
 	'max'   => '',
-]
+	'return_format'     => 'id',
+],
