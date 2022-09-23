@@ -1,20 +1,18 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Password', 'textdomain' ),
-	'name' => 'password',
-	'type' => 'password',
-	'instructions' => '',
-	'required' => 0,
+[
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Password', 'textdomain' ),
+	'name'              => 'password',
+	'type'              => 'password',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
-		'id' => '',
-	),
-	'placeholder' => '',
-	'prepend' => '',
-	'append' => '',
-	'readonly' => 0,
-	'disabled' => 0,
-)
+		'id'    => '',
+	],
+	'placeholder'       => '',
+	'prepend'           => '',
+	'append'            => '',
+],

@@ -10,4 +10,5 @@
 		0 => 'search',
 		1 => 'post_type',
 	],
-]
+	'return_format' => 'id',
+],

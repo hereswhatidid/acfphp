@@ -1,5 +1,5 @@
 <?php
-array(
+[
 	'key'               => 'FIELDKEY',
 	'label'             => __( 'Radio Button', 'textdomain' ),
 	'name'              => 'radio_button',
@@ -7,16 +7,20 @@ array(
 	'instructions'      => '',
 	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper'           => array(
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
 		'id'    => '',
-	),
-	'choices'           => array(),
+	],
+	'choices'           => [
+		'Option One'   => 'Option One',
+		'Option Two'   => 'Option Two',
+		'Option Three' => 'Option Three',
+	],
 	'allow_null'        => 0,
 	'other_choice'      => 0,
-	'save_other_choice' => 0,
 	'default_value'     => '',
 	'layout'            => 'vertical', // 'vertical', 'horizontal'
 	'return_format'     => 'value', // 'value', 'label', 'array'
-)
+	'save_other_choice' => 0,
+],

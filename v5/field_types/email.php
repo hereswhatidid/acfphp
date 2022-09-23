@@ -1,21 +1,19 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => __( 'Email', 'textdomain' ),
-	'name' => 'email',
-	'type' => 'email',
-	'instructions' => '',
-	'required' => 0,
+[
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Email', 'textdomain' ),
+	'name'              => 'email',
+	'type'              => 'email',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
-		'id' => '',
-	),
-	'default_value' => '',
-	'placeholder' => '',
-	'prepend' => '',
-	'append' => '',
-	'readonly' => 0,
-	'disabled' => 0,
-)
+		'id'    => '',
+	],
+	'default_value'     => '',
+	'placeholder'       => '',
+	'prepend'           => '',
+	'append'            => '',
+],

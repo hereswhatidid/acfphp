@@ -6,7 +6,7 @@
 	'type'         => 'repeater',
 	'collapsed'    => self::$slug . 'SUBFIELDKEY',
 	'layout'       => 'row',
-	'button_label' => 'Add Row',
+	'button_label' => __( 'Add Row', 'textdomain' ),
 	'sub_fields'   => [
 		[
 			'key'   => self::$slug . 'SUBFIELDKEY',
@@ -15,4 +15,4 @@
 			'type'  => 'text',
 		],
 	],
-]
+],

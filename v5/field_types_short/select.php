@@ -8,4 +8,4 @@
 		'page' => 'Page',
 		'file' => 'File Link',
 	],
-]
+],

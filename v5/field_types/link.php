@@ -1,16 +1,16 @@
 <?php
-array (
-	'key' => 'FIELDKEY',
-	'label' => 'Link',
-	'name' => 'link',
-	'type' => 'link',
-	'instructions' => '',
-	'required' => 0,
+[
+	'key'               => 'FIELDKEY',
+	'label'             => __( 'Link', 'textdomain' ),
+	'name'              => 'link',
+	'type'              => 'link',
+	'instructions'      => '',
+	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper' => array (
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
-		'id' => '',
-	),
-	'return_format' => 'array', // 'array' or 'url'
-),
+		'id'    => '',
+	],
+	'return_format'     => 'array', // 'array' or 'url'
+],

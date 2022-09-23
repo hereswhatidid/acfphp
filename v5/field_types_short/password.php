@@ -4,4 +4,4 @@
 	'label' => __( 'Password', 'textdomain' ),
 	'name'  => 'password',
 	'type'  => 'password',
-]
+],

@@ -1,8 +1,8 @@
 <?php
 [
-	'key'   => self::$slug . 'FIELDKEY',
-	'label' => __( 'Boolean', 'textdomain' ),
-	'name'  => 'boolean',
-	'type'  => 'true_false',
-	'ui'    => 0,
-]
+	'key'               => self::$slug . 'FIELDKEY',
+	'label'             => __( 'Boolean', 'textdomain' ),
+	'name'              => 'truefalse',
+	'type'              => 'true_false',
+	'ui'                => 0,
+],

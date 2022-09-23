@@ -1,0 +1,21 @@
+<?php
+[
+	'key'               => self::$slug . 'range',
+	'label'             => __( 'Range', 'textdomain' ),
+	'name'              => 'range',
+	'type'              => 'range',
+	'instructions'      => '',
+	'required'          => 0,
+	'conditional_logic' => 0,
+	'wrapper'           => [
+		'width' => '',
+		'class' => '',
+		'id'    => '',
+	],
+	'default_value'     => '',
+	'min'               => '',
+	'max'               => '',
+	'step'              => '',
+	'prepend'           => '',
+	'append'            => '',
+],

@@ -1,20 +1,20 @@
 <?php
 [
 	'key'          => self::$slug . 'FIELDKEY',
-	'label'        => 'Flexible Content',
+	'label'        => __( 'Flexible Content', 'textdomain' ),
 	'name'         => 'flexible_content',
 	'type'         => 'flexible_content',
-	'button_label' => 'Add Row',
+	'button_label' => __( 'Add Row', 'textdomain' ),
 	'layouts'      => [
 		[
 			'key'        => self::$slug . 'GROUPKEY',
 			'name'       => 'content_group',
-			'label'      => 'Content Group',
+			'label'      => __( 'Content Group', 'textdomain' ),
 			'display'    => 'block',
 			'sub_fields' => [
 				[
 					'key'   => self::$slug . 'GROUPFIELDKEY',
-					'label' => 'Sample Text Field',
+					'label' => __( 'Sample Text Field', 'textdomain' ),
 					'name'  => 'sample_text_field',
 					'type'  => 'text',
 				],
@@ -23,4 +23,4 @@
 			'max'        => '',
 		],
 	],
-]
+],

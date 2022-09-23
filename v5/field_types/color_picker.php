@@ -1,5 +1,5 @@
 <?php
-array(
+[
 	'key'               => 'FIELDKEY',
 	'label'             => __( 'Color Picker', 'textdomain' ),
 	'name'              => 'color_picker',
@@ -7,10 +7,10 @@ array(
 	'instructions'      => '',
 	'required'          => 0,
 	'conditional_logic' => 0,
-	'wrapper'           => array(
+	'wrapper'           => [
 		'width' => '',
 		'class' => '',
 		'id'    => '',
-	),
+	],
 	'default_value'     => '',
-)
+],

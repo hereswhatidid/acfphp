@@ -6,4 +6,5 @@
 	'type'       => 'taxonomy',
 	'taxonomy'   => 'category',
 	'field_type' => 'checkbox',
-]
+	'return_format'     => 'id',
+],

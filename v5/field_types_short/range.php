@@ -4,7 +4,6 @@
 	'label' => __( 'Range', 'textdomain' ),
 	'name'  => 'range',
 	'type'  => 'range',
-	'min'   => '', // number, default: 0
-	'max'   => '', // number, default: 100
-	'step'  => '',
+	'min'   => 0,
+	'max'   => 10,
 ],
